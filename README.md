@@ -4,14 +4,16 @@ The purpose is to enable efficient data-driven decision-making by offering well-
 
 File: QUERY1.sql
 Description
-This SQL script is designed to support data analysis for [mention any specific domain, e.g., e-commerce sales, customer behavior]. It retrieves and aggregates data to provide insights on:
+This SQL script is designed to support data analysis for [mention any specific domain, e.g., e-commerce sales, customer behavior]. 
+It retrieves and aggregates data to provide insights on:
 
 Sales Trends: Analysis of revenue, profit, and other sales metrics.
 Customer Demographics: Breakdown of key customer attributes.
 Product Performance: Identifying top-performing product categories and popular purchase times.
 
 # Problem Statement:
-The purpose of QUERY1.sql is to analyze [specific goal, e.g., monthly sales trends or customer segments with high engagement] to improve strategic planning. It helps identify key drivers of revenue and profit, while also spotlighting popular customer segments.
+The purpose of QUERY1.sql is to analyze [specific goal, e.g., monthly sales trends or customer segments with high engagement] to improve strategic planning. 
+It helps identify key drivers of revenue and profit, while also spotlighting popular customer segments.
 
 This SQL script is structured to support data analysis by examining [mention specific context, such as customer transactions or revenue data]. 
 It collects and organizes data to provide insights on:
@@ -23,6 +25,7 @@ Product Success Metrics: Identifies top-performing categories and optimal sales 
 Revenue Growth: Trends in revenue over selected time periods.
 Customer Insights: Identifies which demographic groups contribute most to sales.
 Product Popularity: Highlights best-selling products or categories.
+
 Steps Followed
 
 Data Extraction: Data pulled from [mention tables or sources].
@@ -58,6 +61,8 @@ Technical Details:
 Joins: Joined with tables containing feedback or delay records.
 Filters: Excluded null values for accuracy in average calculations.
 Aggregations: Summarized data to calculate average delay times and satisfaction metrics.
+
+
 Conclusion:
 These SQL queries support a data-driven analysis approach, providing insights into customer demographics, sales trends, and areas for operational improvements. Each query is designed to assist in enhancing the business’s strategic planning and service delivery.
 
